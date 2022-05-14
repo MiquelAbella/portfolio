@@ -109,6 +109,7 @@
 }
 
 .about-container {
+  text-align: justify;
   font-size: 20px;
   padding: 5vw;
   min-width: 40%;
