@@ -3,7 +3,7 @@ import React from "react";
 export const About = ({ id }) => {
   return (
     <div className="about-section" id={id}>
-      <h1>A few things about me</h1>
+      <h1>About me</h1>
       <div className="about-container">
         <p>
           I am Miquel, a software developer based in Lleida. I am 32 years old

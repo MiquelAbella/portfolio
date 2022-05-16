@@ -270,6 +270,15 @@ nav h1 {
 }
 
 @media (max-width: 992px) {
+  .about-container {
+    margin-bottom: 3vh;
+  }
+
+  .about-container p {
+    padding-bottom: 10vh;
+    border-bottom: 1px solid grey;
+  }
+
   .project {
     flex-direction: column;
   }
